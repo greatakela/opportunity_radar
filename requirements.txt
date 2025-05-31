@@ -1,0 +1,13 @@
+langgraph
+openai
+chromadb
+google-search-results   # SerpAPI
+beautifulsoup4
+playwright
+python-dotenv
+sqlalchemy
+tqdm
+schedule
+pandas
+setuptools<58
+langsmith
